@@ -11,6 +11,8 @@ namespace InClass01
         static void Main(string[] args)
         {
             Console.WriteLine("hello, world!");
+            Console.WriteLine("hello, Dhaka");
+            Console.WriteLine("hello, Jack");
 
         }
     }
