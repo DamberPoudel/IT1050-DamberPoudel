@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AA21ED67-D2E0-4DD4-8783-153B1A1F7A77}</ProjectGuid>
+    <ProjectGuid>{CB0AA59C-DCE0-4982-9A97-04AA5245B7E5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Lab09</RootNamespace>
     <AssemblyName>Lab09</AssemblyName>
@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MyMath.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
